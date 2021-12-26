@@ -1,0 +1,4 @@
+-build use :
+
+furnaceIncome = N_furnace x 1
+cauldronIncome = N_cauldron x 3

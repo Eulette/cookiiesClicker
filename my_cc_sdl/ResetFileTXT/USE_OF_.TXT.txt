@@ -1,0 +1,10 @@
+save.txt :
+	-cookiies
+saveBuild.txt :
+	-build name
+	-number of them own
+	-price of one
+	-unlock or not (1 or 0)
+saveShop.txt :
+	-upclic
+	-upclicPrice
